@@ -1,12 +1,15 @@
 <h1>Hi, I'm Elza! <br/><a href="https://github.com/ElzaYu">Web Developer</a>, <a href="https://www.linkedin.com/in/elza-yusufova/">Technical/Data Analyst</a>
 
-<!-- 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
+[YouTube Demonstartion](https://www.youtube.com/watch?v=wym36uRJaII&ab_channel=Elza)
+
+- <b>Outfit Matcher</b>
+
+OutfitMatcher is a web application designed to help users effortlessly create and manage outfits from their existing wardrobe. Users can upload images of their clothing items, categorize them into accessories, shoes, tops, and bottoms, and then mix and match them to create unique outfits. The app aims to simplify the daily struggle of choosing what to wear by providing a visual representation of the user's wardrobe.
+
+  - [Website](https://github.com/ElzaYu/OutfitMatcher_client)
+  - [Server](https://github.com/ElzaYu/OutfitMatcher_server)
 
 <h2> 🤳 Connect with me:</h2>
 
