@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-[YouTube Demonstartion](https://www.youtube.com/watch?v=wym36uRJaII&ab_channel=Elza)
-
 - <b>Outfit Matcher</b>
 
 OutfitMatcher is a web application designed to help users effortlessly create and manage outfits from their existing wardrobe. Users can upload images of their clothing items, categorize them into accessories, shoes, tops, and bottoms, and then mix and match them to create unique outfits. The app aims to simplify the daily struggle of choosing what to wear by providing a visual representation of the user's wardrobe.
+
+[YouTube Demonstartion](https://www.youtube.com/watch?v=wym36uRJaII&ab_channel=Elza)
 
   - [Website](https://github.com/ElzaYu/OutfitMatcher_client)
   - [Server](https://github.com/ElzaYu/OutfitMatcher_server)
